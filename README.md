@@ -1,2 +1,3 @@
 # githubexercise
-exercise for using github
+
+you add exercise for using and delete the head
